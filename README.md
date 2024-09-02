@@ -1,9 +1,12 @@
 # SIMPLE-SHOOTER
 UDEMY LECTURE Based on UE5 C++
+<h1>GameDev.tv Team </h1>
+<h1> DEVELOPED BY LEE SI HYEON / KHU DIGITAL CONTENTS </h1>
+<h2> Developed through 1 months </h2>
 
-<h1> Main Functions and Meshes Via Udemy Lecture by GameDevTV</h1>
+<PORTFOLIO>
 
-<h2> Further Developed by Lee Si Hyeon / KHU DIGITAL CONTENTS </h2>
+# FURTHER DEVELOPED PART BY ME
   1. Heal Packs (Deriving from Health Functions)
 
   2. Ammo System (Including Ammo Packs)
