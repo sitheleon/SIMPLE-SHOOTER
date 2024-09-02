@@ -1,5 +1,5 @@
 <h1> DEVELOPED BY LEE SI HYEON / KHU DIGITAL CONTENTS </h1>
-<h2>Based on Lecture by GameDev.tv Team </h2>
+<h3>Based on Lecture by GameDev.tv Team </h3>
 <h2> Developed through 1 months </h2>
 
 <PORTFOLIO>
