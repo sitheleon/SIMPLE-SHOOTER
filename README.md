@@ -17,3 +17,5 @@ UDEMY LECTURE Based on UE5 C++
 6. Another Level Added (Bigger region, testing navigation of AI)
 
 7. Portal to another Level
+
+8. Pause Menu
