@@ -1,12 +1,16 @@
-# SIMPLE-SHOOTER
-UDEMY LECTURE Based on UE5 C++
-<h2>Based on Lecture by GameDev.tv Team </h2>
 <h1> DEVELOPED BY LEE SI HYEON / KHU DIGITAL CONTENTS </h1>
+<h2>Based on Lecture by GameDev.tv Team </h2>
 <h2> Developed through 1 months </h2>
 
 <PORTFOLIO>
 
-# FURTHER DEVELOPED PART BY ME
+<h3> C++ Used </h3>
+
+<h3>Unreal Engine Blueprint used as well</h3>
+
+
+FURTHER Developed part by me:
+
   1. Heal Packs (Deriving from Health Functions)
 
   2. Ammo System (Including Ammo Packs)
@@ -24,8 +28,29 @@ UDEMY LECTURE Based on UE5 C++
   8. Pause Menu
 
 
-<h2> DEVELOPMENT STILL IN PROGRESS </h2>
+
+Developed partially help with Chat-GPT, and mainly with youtube tutorials.
+
+
+
+DEVELOPMENT STILL IN PROGRESS
 Since 2024
+
+COPYRIGHT@Sitheleon ALL RIGHTS RESERVED.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
