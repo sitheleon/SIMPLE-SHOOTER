@@ -1,6 +1,6 @@
 # SIMPLE-SHOOTER
 UDEMY LECTURE Based on UE5 C++
-<h1>GameDev.tv Team </h1>
+<h2>Based on Lecture by GameDev.tv Team </h2>
 <h1> DEVELOPED BY LEE SI HYEON / KHU DIGITAL CONTENTS </h1>
 <h2> Developed through 1 months </h2>
 
