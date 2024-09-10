@@ -27,7 +27,7 @@ FURTHER Developed part by me:
   
   8. Pause Menu
 
-  9. (v1.0.0-beta) Enemy Health Bar 
+  9. <h3> (v1.0.0-progress) </h3> Enemy Health Bar 
 
 
 
