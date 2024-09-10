@@ -27,6 +27,8 @@ FURTHER Developed part by me:
   
   8. Pause Menu
 
+  9. (v1.0.0-beta) Enemy Health Bar 
+
 
 
 Developed partially help with Chat-GPT, and mainly with youtube tutorials.
