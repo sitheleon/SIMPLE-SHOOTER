@@ -25,7 +25,7 @@ FURTHER Developed part by me:
 
   7. Portal to another Level
   
-  8. Pause Menu
+  8. Pause Menu (NOT YET FULLY COMPLETE)
 
   9. <h3> (v1.0.0-progress) </h3> Enemy Health Bar 
 
